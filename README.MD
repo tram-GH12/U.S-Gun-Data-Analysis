@@ -1,4 +1,4 @@
-# U.S. Gun Data Analysis | Python
+# U.S. Gun Data Analysis | Python |** NEED IMPROVEMENT **
 
 ## Overview
 This project investigates the relationship between educational attainment and handgun-related activity across U.S. states using FBI Gun Data and U.S. Census data from 2011–2015.
